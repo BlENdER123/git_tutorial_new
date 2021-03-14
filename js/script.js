@@ -1,0 +1,1 @@
+var standart = 0;
